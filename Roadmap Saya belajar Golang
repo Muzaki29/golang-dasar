@@ -1,0 +1,43 @@
+1. Dasar Golang (Wajib banget)
+a. Variabel, konstanta, tipe data (number, string, boolean, struct, slice, map).
+b. Control flow (if, switch, for).
+c. Fungsi, method, dan package.
+d. Error handling (error, panic, recover).
+e. Concurrency: goroutines & channels.
+f. Modul Go (go mod init, go get, dll).
+📌 Target: bisa bikin aplikasi kecil (contoh: program CRUD sederhana).
+
+2. Backend Development
+a. REST API dengan Golang (pakai net/http atau framework seperti Gin atau Echo).
+b. JSON handling (encoding/json).
+c. Middleware (auth, logging, request validation).
+d. Unit testing dengan testing package.
+📌 Target: bisa bikin API sederhana (contoh: todo-list API).
+
+3. Database & Query
+a. Dasar SQL (SELECT, INSERT, UPDATE, DELETE, JOIN).
+b.Integrasi Go dengan database (pakai database/sql atau ORM seperti GORM).
+c. Optimisasi query dasar.
+📌 Target: bisa bikin API yang nyambung ke database MySQL/PostgreSQL.
+
+4. Software Engineering Practices
+a. Git & GitHub (untuk version control & kolaborasi).
+b. Code review (biasakan coding clean & rapi).
+c. Documentation (pakai README, komentar kode).
+d. Debugging & profiling (pakai go test, pprof).
+
+5. Tools & Ekosistem
+a. Docker → jalankan aplikasi Go di container.
+b. Postman/Insomnia → test API.
+c. Linux CLI (karena banyak server pakai Linux).
+
+6. Mindset & Soft Skill
+a. Kolaborasi dengan tim (frontend, QA, PM).
+b. Komunikasi yang jelas.
+c. Problem solving & debugging mindset.
+
+📌 Jadi, untuk pemula seperti Saya, fokus pertama:
+1. Dasar Golang.
+2. REST API sederhana.
+3. Database integration.
+4. Publikasikan project di GitHub sebagai portfolio.
